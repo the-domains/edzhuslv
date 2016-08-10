@@ -4,7 +4,7 @@
         <description><![CDATA[edzhus.lv]]></description>
         <link>https://thegrid.ai/edzhuslv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 05:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 05:23:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/edzhuslv/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -64,17 +64,17 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/15f368d4-60fa-48ab-a2d5-62f98f3e3bf0.jpg">]]></description>
+            <link>https://thegrid.ai/edzhuslv/3fb42ba2-2d21-4b6b-8ce4-3148dfaa724b/index.html</link>
+            <guid isPermaLink="false">3fb42ba2-2d21-4b6b-8ce4-3148dfaa724b</guid>
+            <pubDate>Wed, 10 Aug 2016 05:22:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5f388c9-c91c-4c5f-b8f7-036e0c6f60a8.jpg">]]></description>
             <link>https://thegrid.ai/edzhuslv/8f9710ee-063b-4784-b568-5f0c1ee78f03/index.html</link>
             <guid isPermaLink="false">8f9710ee-063b-4784-b568-5f0c1ee78f03</guid>
             <pubDate>Wed, 10 Aug 2016 05:22:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdf37149-7ca3-4aa7-94e0-6219f6d86d18.jpg">]]></description>
-            <link>https://thegrid.ai/edzhuslv/ce0046e6-9ce4-4094-9036-cd45adf29d32/index.html</link>
-            <guid isPermaLink="false">ce0046e6-9ce4-4094-9036-cd45adf29d32</guid>
-            <pubDate>Wed, 10 Aug 2016 05:22:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
