@@ -1,15 +1,15 @@
-typography_spectrum: 0.550840453710407
+typography_spectrum: 0.4599100255873054
 color:
-  brandStrength: 0.4600714899133891
-  lightness: 0.17306405655108392
-  saturation: 0.21676341025158763
-  rhythmicContrast: 0.06991755752824247
+  brandStrength: 0.1453845538198948
+  lightness: 0.15634455485269427
+  saturation: 0.878189904615283
+  rhythmicContrast: 0.792239957023412
   brandColors:
-    - '#070C10'
-    - '#F9F8F3'
-    - '#59786B'
-    - '#DDB599'
-    - '#B18E6C'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 opengraph:
   type: 'https://www.facebook.com/edzhus.lv'
 layout_spectrum: 0.17735043726861477
