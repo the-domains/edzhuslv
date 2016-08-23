@@ -18,4 +18,8 @@ author:
   email: jaudzems.edgars@inbox.lv
   url: www.edzhus.lv
 name: edzhus.lv
+navigation:
+  - name: Edzhus Riga
+    id: 3fb42ba2-2d21-4b6b-8ce4-3148dfaa724b
+    type: content
 title: Riga
