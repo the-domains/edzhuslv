@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[edzhus.lv]]></title>
-        <description><![CDATA[edzhus.lv]]></description>
+        <title><![CDATA[Riga]]></title>
+        <description><![CDATA[Riga]]></description>
         <link>https://thegrid.ai/edzhuslv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 05:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 16:51:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/edzhuslv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TVNET :: Ievērojamas ziņas]]></title>
+            <description><![CDATA[<article><h1>TVNET :: Ievērojamas ziņas</h1><p>TVNET ir informatīvi izklaidējošs interneta medijs, kas veiksmīgi darbojas jau kopš 2000.gada. Šajos gados TVNET zīmols ir kļuvis par visuzticamāko avotu objektīvu ziņu iegūšanai, vienmēr turot roku uz pulsa visos svarīgākajos pasaules un pašmāju notikumos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6db588c4c00a0de9a0f261fb3643d14f07ea3c8.jpg"></article>]]></description>
+            <link>http://www.tvnet.lv/</link>
+            <guid isPermaLink="false">e6c60334-4b6e-4391-a5b4-6faa21c2e0cf</guid>
+            <pubDate>Tue, 23 Aug 2016 16:51:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cff1c3b4-6027-4015-abd4-29e027e3229d.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/edzhuslv/3fb42ba2-2d21-4b6b-8ce4-3148dfaa724b/index.html</link>
             <guid isPermaLink="false">3fb42ba2-2d21-4b6b-8ce4-3148dfaa724b</guid>
             <pubDate>Wed, 10 Aug 2016 05:22:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5f388c9-c91c-4c5f-b8f7-036e0c6f60a8.jpg">]]></description>
-            <link>https://thegrid.ai/edzhuslv/8f9710ee-063b-4784-b568-5f0c1ee78f03/index.html</link>
-            <guid isPermaLink="false">8f9710ee-063b-4784-b568-5f0c1ee78f03</guid>
-            <pubDate>Wed, 10 Aug 2016 05:22:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
