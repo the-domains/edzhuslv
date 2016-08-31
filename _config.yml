@@ -1,25 +1,37 @@
-typography_spectrum: 0.4599100255873054
+author:
+  name: Edgars Jaudzems
+  email: jaudzems.edgars@inbox.lv
+  url: www.edzhus.lv
+title: Riga
+opengraph:
+  type: 'https://www.facebook.com/edzhus.lv'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.1453845538198948
-  lightness: 0.15634455485269427
-  saturation: 0.878189904615283
-  rhythmicContrast: 0.792239957023412
+  saturation: 0.4742213
+  brandStrength: 0.5354457
+  lightness: 0.4849624
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-opengraph:
-  type: 'https://www.facebook.com/edzhus.lv'
-layout_spectrum: 0.17735043726861477
-author:
-  name: Edgars Jaudzems
-  email: jaudzems.edgars@inbox.lv
-  url: www.edzhus.lv
-name: edzhus.lv
+  rhythmicContrast: 0.4785177
+typography_spectrum: 0.7781955
 navigation:
   - name: Edzhus Riga
     id: 3fb42ba2-2d21-4b6b-8ce4-3148dfaa724b
     type: content
-title: Riga
+layout_spectrum: 0.9704618
+name: edzhus.lv
